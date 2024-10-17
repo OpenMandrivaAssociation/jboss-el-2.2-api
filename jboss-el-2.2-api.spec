@@ -7,7 +7,7 @@ Version:      1.0.2
 Release:      1.0%{?dist}
 Summary:      Expression Language 2.2 API
 License:      CDDL or GPLv2 with exceptions
-URL:          http://www.jboss.org
+URL:          https://www.jboss.org
 
 Source0:      https://github.com/jboss/jboss-el-api_spec/archive/%{namedversion}.tar.gz
 
